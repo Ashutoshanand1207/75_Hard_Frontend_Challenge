@@ -55,3 +55,11 @@ With a passion for web development, I've recreated the sleek and user-friendly d
 🚀 Skill Advancement: Building this project allowed me to hone my HTML and CSS skills, perfecting my ability to replicate complex designs.
 
 -----------------------------------------------------------------------------------------------------------------------------
+
+Project 7 - Analog Clock with dark Mode [Clock]
+
+Using HTML, CSS, and JavaScript, I've created a timepiece that combines timeless elegance with modern functionality. Here's what sets this project apart:
+
+⌚ Analog Timekeeping: The watch displays the current time in a familiar analog format, with hour, minute, and second hands.
+🌙 Dark Mode: I've incorporated a Dark Mode toggle, allowing users to switch between light and dark themes for optimal readability, day or night.
+🚀 Skill Growth: This project challenged me to work with time-related JavaScript functions and improve my CSS styling skills.
